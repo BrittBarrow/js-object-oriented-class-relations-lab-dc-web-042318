@@ -1,5 +1,5 @@
 const expect = chai.expect;
-
+ 
 describe('drivers', function() {
   describe('creating a new driver', function() {
     describe('store', function() {
@@ -174,4 +174,3 @@ describe('relating a driver to a trip and a passenger', function() {
     })
   })
 })
-
